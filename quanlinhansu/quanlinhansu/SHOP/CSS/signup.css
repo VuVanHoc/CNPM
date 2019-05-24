@@ -1,0 +1,36 @@
+.container-fluid {
+	background: #eceff2;
+	margin-top: -40px;
+	padding-top: 80px;//#d49e9e
+}
+#top {
+	height: 250px;
+	width: 1300px;
+	font-family: cursive;
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+#body {
+	height: 280px;
+	width: 1300px;
+	font-family: cursive;
+	font-size: 18px;
+}
+#chuthich {
+	height: 100px;
+	width: 1300px;
+	margin-top: -5px;
+	padding-left: 15px;
+}
+#txtpw {
+	margin-left: 30px;
+}
+#txtname {
+	margin-left: 21px;
+}
+#txtemail {
+	margin-left: 64px;
+}
+#txtrepw {
+	margin-left: 2px;
+}

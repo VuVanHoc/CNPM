@@ -1,0 +1,66 @@
+.container-fluid {
+	width: 1330px;
+	background-image: url(../IMAGE/7.png);
+}
+nav ul li a {
+	color: white;
+	font-size: 19px;
+}
+.card .card-body a {
+	font-size: 22px; 
+	width: 250px; 
+	height: 80px; 
+	margin-left: 10px; 
+	margin-top: 10px; 
+	background: #9ca0a2;
+	color: black;
+}
+.card #boba a {
+	font-size: 22px; 
+	width: 250px; 
+	height: 50px; 
+	margin-left: 10px; 
+	margin-top: 10px;
+	background: #9ca0a2;
+	color: black;
+}
+.card .card-body a:hover {
+	background-color: #666e6f;
+}
+.card #boba a:hover {
+	background-color: #666e6f;
+}
+.card .card-body a p {
+	margin-top: 18px;
+}
+.card {
+	height: 299px;
+	width: 300px;
+	border: 2px solid #ccc;
+}
+.card .card-header {
+	height: 60px;
+	background: #838788;
+}
+.card .card-body {
+	background: #666e6f;
+}
+.card-header a {
+	font-size: 21px;
+	font-family: cursive;
+}
+.card-header a span {
+	margin-top: 9px;
+	margin-left: 68px;
+	float: left;
+	color: black;
+}
+.card-header a p {
+	float: left;
+	margin-left: 8px;
+	margin-top: 7px;
+	color: black;
+}
+#search {
+	margin-left: 150px;
+}
